@@ -3,8 +3,8 @@ A "path" starts at any vertex, ends at any vertex, on the condition that no node
 
 Therefore following problems may very confused, and need additional attention and condition to handles:
 
-+ 549. Binary Tree Longest Consecutive Sequence II
-+ 687. Longest Univalue Path
-+ 124. Binary Tree Maximum Path Sum
++ Binary Tree Longest Consecutive Sequence II
++ Longest Univalue Path
++ Binary Tree Maximum Path Sum
 
 Let take a look closer to these problems.
