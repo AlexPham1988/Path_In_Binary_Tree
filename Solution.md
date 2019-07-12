@@ -11,6 +11,8 @@ def recursive_travel(node):
     # Return resul
   
 
+TOP-DOWN DFS vs BOTTOM-UP DFS
+
 The second important is using post-order , not pre-order. For example in following tree:
 
       1    --> L0
